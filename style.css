@@ -109,10 +109,13 @@ ul {
 	gap: 2rem;
 }
 
+
 .bio1 {
 	padding-top: 5rem;
-	object-fit:scale-down ;
+	object-fit:scale-down;
+	padding-bottom: 5rem;
 }
+
 
 .card-img-top {
 	object-fit: cover;
