@@ -1,0 +1,196 @@
+/* font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif; */
+h1 {
+	font-family: 'Poppins', sans-serif;
+	font-weight: 600;
+	font-size: 29px;
+}
+
+h2 {
+	font-family: 'Poppins', sans-serif;
+	font-weight: 500;
+}
+
+h3 {
+	font-family: 'Poppins', sans-serif;
+	font-weight: 600;
+}
+
+h4 {
+	font-family: 'Poppins', sans-serif;
+	font-weight: 600;
+}
+
+h5 {
+	font-family: 'Poppins', sans-serif;
+	font-weight: 500;
+}
+
+h6 {
+	font-family: 'Poppins', sans-serif;
+	font-weight: 500;
+}
+
+b {
+	font-weight: 600;
+  }
+
+label {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+}
+
+li {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+}
+
+p {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+} 
+
+.card {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+}
+
+ul {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+}
+
+.accordion-body {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400
+}
+
+
+@media (min-width: 992px) {
+	.flex-lg-row1 {
+	flex-direction: row;
+}
+.c-img {
+	object-fit: cover;
+	object-position: right top;/* Center the image horizontally and vertically */
+	
+}
+}
+
+.c-item {
+    height: 75vh;
+}
+
+.c-img {
+    height: 75vh;
+	object-fit: cover;
+	object-position: right top;
+}
+
+
+.iframe {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 50vh;
+	gap: 2rem;
+}
+
+.profile-img {
+	height: 100px;
+	border-radius: 50%;
+  }
+
+  .bio-shot {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 50vh;
+	gap: 2rem;
+}
+
+.bio1 {
+	padding-top: 5rem;
+	object-fit:scale-down ;
+}
+
+.card-img-top {
+	object-fit: cover;
+	object-position: center;
+}
+
+.container-FAQ {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 2rem;
+}
+
+.container-pricing-bottom {
+	text-align: center;
+	margin-top: 20px; /* Adjust as needed */
+	padding-bottom: 40px; /* Adjust as needed */
+
+}
+
+
+
+.accordion-body {
+	font-size: 18px;
+	font-weight: normal;
+}
+
+.selfPortrait {
+	object-fit: cover;
+	object-position: center;
+}
+
+.carousel-caption h1 {
+	background-color: rgb(114, 18, 98);
+}
+
+#subTitle {
+	text-align: left;
+}
+
+#title {
+	text-align: left;
+}
+
+#headList {
+	text-align: left;
+}
+
+.list-item {
+	margin-bottom: 15px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 500;
+	font-size: 18px;
+}
+
+
+ /* reviews */
+ .review1 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	font-size: 18px;
+	padding-top: 15px;
+}
+
+.review2 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	font-size: 18px;
+	padding-top: 35px;
+}
+
+.review-length {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	font-size: 18px;
+	font-style: italic;
+}
+
+#login-signup-contact {
+	padding-top: 5rem;
+}
